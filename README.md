@@ -1,7 +1,3 @@
-
-### 📄 `README.md`
-
-
 # 🌍 Global Terrorism Data EDA Project
 
 This project performs **Exploratory Data Analysis (EDA)** on the [Global Terrorism Database (GTD)](https://www.start.umd.edu/gtd/), focusing on identifying patterns, trends, and regional differences in global terrorist activities from 1970 to 2017.
